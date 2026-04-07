@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>NanaFit Marmitas Congeladas</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #f7f7f7;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #333;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 10px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    .menu-item {
+      background: white;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>NanaFit Marmitas Congeladas</h1>
+  <p>Comida saudável, prática e deliciosa!</p>
+</header>
+
+<nav>
+  <a href="#sobre">Sobre</a>
+  <a href="#menu">Menu</a>
+  <a href="#contacto">Contacto</a>
+</nav>
+
+<section id="sobre">
+  <h2>Sobre Nós</h2>
+  <p>Na NanaFit, preparamos marmitas congeladas saudáveis, equilibradas e prontas para facilitar o teu dia a dia.</p>
+</section>
+
+<section id="menu">
+  <h2>Menu</h2>
+
+  <div class="menu-item">
+    <h3>Frango com Legumes</h3>
+    <p>Saudável e rico em proteína.</p>
+  </div>
+
+  <div class="menu-item">
+    <h3>Carne com Arroz Integral</h3>
+    <p>Energia e sabor numa só refeição.</p>
+  </div>
+
+  <div class="menu-item">
+    <h3>Opção Vegetariana</h3>
+    <p>Deliciosa e nutritiva.</p>
+  </div>
+
+</section>
+
+<section id="contacto">
+  <h2>Contacto</h2>
+  <p>📞 Telefone: (coloca aqui)</p>
+  <p>📧 Email: (coloca aqui)</p>
+  <p>📍 Localização: (cidade)</p>
+</section>
+
+<footer>
+  <p>© 2026 NanaFit Marmitas Congeladas</p>
+</footer>
+
+</body>
+</html>
